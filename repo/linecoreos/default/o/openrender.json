@@ -5,7 +5,7 @@
     "author": "Cole Bohte",
     "dependencies": ["openrender-prompt"],
     "version": "1.00",
-    "minosversion": "0.1.0.3438",
+    "minosversion": "0.1.0.3177",
     "installinstructions": "Reboot & Run 'openrender enable' to enable OpenRender.",
     "alias": {"trigger": "openrender","description": "An alternative text renderer for LineCoreOS.","usage": "openrender <enable/disable>"}
 }
